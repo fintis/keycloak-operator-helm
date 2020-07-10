@@ -1,0 +1,2 @@
+The keycloak operator has been installed. Visit this link for more info:
+https://middlewareblog.redhat.com/2020/01/08/getting-started-with-the-keycloak-sso-operator/
