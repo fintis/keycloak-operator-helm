@@ -3,7 +3,7 @@ entries:
   keycloak-operator:
   - apiVersion: v2
     appVersion: 9.0.2
-    created: "2021-04-05T12:22:06.55153+01:00"
+    created: "2021-04-05T12:29:28.014452+01:00"
     description: A Helm chart for the KeyCloak Operator
     digest: e31877a1e877c38fe54552169c9189792602c445e8373e8e914f4eaabf21d282
     name: keycloak-operator
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://fintis.github.io/keycloak-operator-helm/keycloak-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-05T12:22:06.550778+01:00"
+generated: "2021-04-05T12:29:28.013633+01:00"
